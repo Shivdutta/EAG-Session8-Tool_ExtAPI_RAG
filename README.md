@@ -41,8 +41,8 @@
 | `agent.py` | Core logic that invokes tools |
 | `telegram_msg_intercepter.py` | Telegram bot handler |
 | `creds_create.py` | Creates and formats credentials |
-| `mcp/gmail_and_sheet_server.py` | Manages Gmail & Sheets |
-| `mcp/web_search_server.py` | SSE-based search tool |
+| `mcp/gmail_and_sheet_server.py` | sse-Manages Gmail & Sheets |
+| `mcp/web_search_server.py` | stdio-based search tool |
 ---
 
 ### ☁️ Google Cloud Setup
