@@ -1,10 +1,10 @@
 
-<div align="center" style="background: #fff9c4; padding: 30px; border-radius: 15px; border: 1px solid #fdd835;">
-  
-  <h1 style="color:#d81b60">💡 EAG Session 8 · External API RAG Agent System</h1>
+<div align="center" style="background-image: url('roses.jpg'); background-size: cover; padding: 60px; border-radius: 15px; border: 2px solid #f06292; color: #ffffff;">
 
-  <p><strong>AI Agents</strong> 🤖 + <strong>External API Integration</strong> 🌐</p>
-  <p>✨ Gmail · Telegram · Google Sheets · Web Search · SSE</p>
+  <h1 style="color:#ffffff; text-shadow: 2px 2px 4px #000000;">💡 EAG Session 8 · External API RAG Agent System</h1>
+
+  <p style="font-size: 1.2em;"><strong>AI Agents</strong> 🤖 + <strong>External API Integration</strong> 🌐</p>
+  <p style="font-size: 1.2em;">✨ Gmail · Telegram · Google Sheets · Web Search · SSE</p>
 
 </div>
 
@@ -28,8 +28,8 @@
 - 🔌 Telegram interface
 - 📬 Gmail API support
 - 📁 Google Sheets + Drive integration
-- 🌐 Live Web Search via SSE server
-- 🏎️ F1 MCP Tool
+- 🌐 Live Web Search via stdio server
+- 🏎️ MCP Tool for F1 scores using SSE server
 
 ---
 
