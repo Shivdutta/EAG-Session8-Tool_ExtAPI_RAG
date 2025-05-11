@@ -43,8 +43,6 @@
 | `creds_create.py` | Creates and formats credentials |
 | `mcp/gmail_and_sheet_server.py` | Manages Gmail & Sheets |
 | `mcp/web_search_server.py` | SSE-based search tool |
-| `mcp/tools/f1_racers.py` | MCP tool for scraping F1 data |
-
 ---
 
 ### ☁️ Google Cloud Setup
